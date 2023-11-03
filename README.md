@@ -1,7 +1,7 @@
 # Unit-Testing-with-C#
 
 ## Design challenge
-For this challenge, you will need to use your knowledge acquired in the Unit Testing with C# module, from DIO's .NET track.
+For this challenge, you will need to use your knowledge acquired in the Unit Testing with C#.
 
 ## Context
 You are working on a system, and your managers have reported that there are often problems with the software: bugs, features that were working suddenly no longer work, validation problems, among others. Customers are already starting to doubt the quality of the code.

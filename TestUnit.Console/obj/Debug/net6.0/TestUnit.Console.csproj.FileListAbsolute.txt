@@ -1,0 +1,15 @@
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\bin\Debug\net6.0\TestUnit.Console.exe
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\bin\Debug\net6.0\TestUnit.Console.deps.json
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\bin\Debug\net6.0\TestUnit.Console.runtimeconfig.json
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\bin\Debug\net6.0\TestUnit.Console.dll
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\bin\Debug\net6.0\TestUnit.Console.pdb
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.AssemblyInfo.cs
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.dll
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\refint\TestUnit.Console.dll
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.pdb
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\TestUnit.Console.genruntimeconfig.cache
+C:\Users\danie\Downloads\Unit-test\TestUnit.Console\obj\Debug\net6.0\ref\TestUnit.Console.dll

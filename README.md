@@ -11,3 +11,5 @@ Having done this, you suggested implementing unit tests: writing tests covering 
 Managers accepted your idea, and with that, you need to implement unit tests in the system.
 
 ## Images
+
+![Result-of-Test.png](https://github.com/daniellimadev/Unit-test/blob/main/Img/Result-of-Test.png)
